@@ -1,4 +1,5 @@
-# study-lang
-  Repo for studying various programming languages.
+## study-lang
+
+Repo for studying various programming languages.
 ---
 ### Python
